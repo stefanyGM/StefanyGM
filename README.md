@@ -16,7 +16,7 @@
 
 ##
 <div>
-<a href = "stefanygabrielli506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+<a href = "mailto: stefanygabrielli506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <a href="https://www.linkedin.com/in/stefany-gabrielli-700974251" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5? sytestyle=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/stefany_gab1?r=nametag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
