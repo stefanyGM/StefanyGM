@@ -24,4 +24,4 @@
 
 ![Animação de cobra](https://github.com/stefanyGM/stefanyGM/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
