@@ -1,6 +1,6 @@
 ##  Olá!  Eu sou a  Stefany  Gabrielli
 
-- 🌱  Atualmente  estou  estud: Tecnologia
+- 🌱  Atualmente  estou  estudando Tecnologia.
 
 <div>
   <a href="https://github.com/stefanyGM">
